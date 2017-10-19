@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507964294 source:d:\practice\stackquestions\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<map>
+	<string>
+
